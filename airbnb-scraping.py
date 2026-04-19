@@ -25,5 +25,5 @@ def scrape_reviews(hotel_id, filepath):
             print("Error in saving reviews!.")
         
 
-reviews = scrape_reviews(HOTEL_ID, "hotel_reviews.json")
+reviews = scrape_reviews(HOTEL_ID, "./inputs/hotel_reviews.json")
 print(type(reviews))
