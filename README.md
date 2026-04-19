@@ -2,6 +2,12 @@
 
 A data-driven exploration of customer sentiment and experience using Airbnb hotel reviews. This project combines natural language processing (NLP) techniques with machine learning to uncover what guests truly think—highlighting strengths, exposing weaknesses, and translating insights into actionable business recommendations.
 
+This project automatically saves a markdown file detailing the entire review corpus and summary of its insights. 
+
+Check out its result here: `business-results/results.md`
+
+
+
 ---
 
 ## 📌 Overview
